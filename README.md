@@ -2,6 +2,18 @@
 
 ...
 
+## Git
+
+Git is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows. Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005, and has since become the most widely adopted version control system for software development.
+
+* Git Tutorial - https://www.atlassian.com/git/tutorials/
+
+* Book - http://git-scm.com/book/en/v2
+
+* Workflows : https://www.atlassian.com/git/tutorials/comparing-workflows/
+* Gitflow Workflow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+* Interactive tutorial: https://try.github.io/
+
 ## Refactoring
 
 Refactoring is the process of changing a software system in such a way that it does not alter the external behavior of the code yet improves its internal structure. 
