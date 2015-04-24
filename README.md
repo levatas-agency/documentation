@@ -6,13 +6,25 @@
 
 Git is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows. Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005, and has since become the most widely adopted version control system for software development.
 
-* Git Tutorial - https://www.atlassian.com/git/tutorials/
+* [The Official Git Site](Git homepage) - Offers documentation for all Git commands as well as binary downloads of Git for all supported platforms.
 
-* Book - http://git-scm.com/book/en/v2
+* [Git Tutorial](https://www.atlassian.com/git/tutorials/) - A step by step Git tutorial covering from the very beginning to more advanced concepts.
 
-* Workflows : https://www.atlassian.com/git/tutorials/comparing-workflows/
-* Gitflow Workflow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
-* Interactive tutorial: https://try.github.io/
+* [Git Interactive Tutorial](https://try.github.io/) - This is an amazing interactive tutorial where you'll learn Git by actually using it in a simulated web terminal window.
+
+* [Pro Git](http://git-scm.com/book/en/v2) - This is a book, free and online. It's great whenever you want to use it as a reference or as a starting guide to learn Git. 
+
+* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/) - You can use different workflows to collaborate with your team using Git. This page covers some of the most popular workflows: [Centralized](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow), [Feature Branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow), [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), and [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow).
+
+### GitHub
+
+GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as wikis, task management, and bug tracking and feature requests for every project.
+
+* [GitHub Guides](https://guides.github.com/) - Several guides on how to use GitHub and all its tools.
+
+* [GitHub CheatSheet in English](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) - Quick reference for common used Git commands and general GitHub usage.
+
+* [Hoja de Referencia de GitHub en Español](https://training.github.com/kit/downloads/es/github-git-cheat-sheet.pdf) - Referencia para los comandos de Git más utilizados y detalles generales para el uso de GitHub.
 
 ## Refactoring
 
