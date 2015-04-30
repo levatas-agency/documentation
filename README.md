@@ -26,6 +26,16 @@ GitHub is a web-based Git repository hosting service, which offers all of the di
 
 * [Hoja de Referencia de GitHub en Español](https://training.github.com/kit/downloads/es/github-git-cheat-sheet.pdf) - Referencia para los comandos de Git más utilizados y detalles generales para el uso de GitHub.
 
+## Test-Driven Development
+
+* [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_1?ie=UTF8&qid=1430398587&sr=8-1&keywords=TDD) - This is an amazing book where Kent Beck illustrates how TDD should be done throughout an example. Must read to understand everything related to TDD.
+
+* [Introduction to Test-Driven Development](http://agiledata.org/essays/tdd.html) - A quick tutorial about TDD.
+
+* [TDD is not dead](https://blog.svpino.com/2014/05/15/tdd-is-not-dead) - A series of 5 hangout videos featuring Kent Beck, Martin Fowler, and  David H. Hansson where they discuss about TDD.
+
+* [TDD Debate](https://www.youtube.com/watch?v=KtHQGs3zFAM) - A video where Jim Coplien and Bob Martin debate TDD. 
+
 ## Refactoring
 
 Refactoring is the process of changing a software system in such a way that it does not alter the external behavior of the code yet improves its internal structure. 
