@@ -87,9 +87,11 @@ AngularJS is a structural framework for dynamic web apps. It lets you use HTML a
 
 * [AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes) - 60-ish Minutes to help break down the Angularjs learning curve. Learn how to get started with the AngularJS framework and some of the key features it provides that simplify SPA development.
 
+* [Angular Basics](http://www.angularjsbook.com/) - A free interactive book, covering directives, modules, services, controllers, routing, and more.
+
 * [Creating Custom AngularJS Directives Part I – The Fundamentals](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals) - AngularJS directives can be a bit intimidating the first time you see them. Learn how pieces fit together and you'll find that they're not that bad.
 
 * [Angular Style Guide by John Papa](https://github.com/johnpapa/angular-styleguide) - If you are looking for an opinionated style guide for syntax, conventions, and structuring Angular applications, then step right in.
 
-* [Angular Basics](http://www.angularjsbook.com/) - A free interactive book, covering directives, modules, services, controllers, routing, and more.
+
 
