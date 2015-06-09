@@ -6,6 +6,7 @@
 - [Test-Driven Development](#test-driven-development)
 - [Refactoring](#refactoring)
 - [App Engine Pipelines](#app-engine-pipelines)
+- [Angularjs](#angularjs)
 
 ## Git
 
