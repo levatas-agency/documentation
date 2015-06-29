@@ -5,8 +5,10 @@
 - [Git](#git)
 - [Test-Driven Development](#test-driven-development)
 - [Refactoring](#refactoring)
+- [Google App Engine](#google-app-engine)
 - [App Engine Pipelines](#app-engine-pipelines)
 - [Angularjs](#angularjs)
+- [Secure Sockets Layer - SSL](#secure-sockets-layer-ssl)
 
 ## Git
 
@@ -65,6 +67,25 @@ As an example, here you have some refactoring techniques that will help you deal
 
 * [Pull Up Field](https://sourcemaking.com/refactoring/pull-up-field) - When subclasses are developed independently, or combined through refactoring, certain fields can end up being duplicated. As soon as you find out, you can generalize them up in the class herarchy.
 
+## Google App Engine
+
+Google App Engine is a Platform as a Service (PaaS) offering that lets you build and run applications on Google’s infrastructure. App Engine applications are easy to build, easy to maintain, and easy to scale as your traffic and data storage needs change. With App Engine, there are no servers for you to maintain. You simply upload your application and it's ready to go. 
+
+These tutorials will guide you to implement a simple guest book that lets users post messages to a public message board.
+
+* [Python](https://cloud.google.com/appengine/docs/python/gettingstartedpython27/introduction)
+
+* [Java](https://cloud.google.com/appengine/docs/java/gettingstarted/introduction)
+
+* [PHP](https://cloud.google.com/appengine/docs/php/gettingstarted/introduction)
+
+##### Udacity Free Courses
+
+You will learn how to harness the power of App Engine - Platform as a Service, run by Google, so you can focus on your application's features, not on managing infrastructure that runs your app.
+
+* [Developing Scalable Apps in Python with Google App Engine](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
+
+* [Developing Scalable Apps in Java with Google App Engine](https://www.udacity.com/course/developing-scalable-apps-in-java--ud859)
 
 ## App Engine Pipelines
 
@@ -92,6 +113,14 @@ AngularJS is a structural framework for dynamic web apps. It lets you use HTML a
 * [Creating Custom AngularJS Directives Part I – The Fundamentals](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals) - AngularJS directives can be a bit intimidating the first time you see them. Learn how pieces fit together and you'll find that they're not that bad.
 
 * [Angular Style Guide by John Papa](https://github.com/johnpapa/angular-styleguide) - If you are looking for an opinionated style guide for syntax, conventions, and structuring Angular applications, then step right in.
+
+## Secure Sockets Layer - SSL
+
+SSL (Secure Sockets Layer) is the standard security technology for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browsers remain private and integral.
+
+* [Configuring SSL in IIS Manager - Video](http://www.iis.net/learn/manage/configuring-security/configuring-ssl-in-iis-manager) - Enabling powerful SSL security to protect your Web applications is simpler to setup with IIS Manager and easier to deploy with self-signed certificates in IIS 7.0 and above.
+
+* [How to Set Up SSL on IIS 7](http://www.iis.net/learn/manage/configuring-security/how-to-set-up-ssl-on-iis) - Steps for configuring Secure Sockets Layer (SSL) for a site.
 
 
 
