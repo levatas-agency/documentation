@@ -78,7 +78,7 @@ These tutorials will guide you to implement a simple guest book that lets users 
 
 * [PHP](https://cloud.google.com/appengine/docs/php/gettingstarted/introduction)
 
-#### Udacity Free Courses.
+##### Udacity Free Courses
 
 You will learn how to harness the power of App Engine - Platform as a Service, run by Google, so you can focus on your application's features, not on managing infrastructure that runs your app.
 
