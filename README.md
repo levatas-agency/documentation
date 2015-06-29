@@ -8,7 +8,7 @@
 - [Google App Engine](#google-app-engine)
 - [App Engine Pipelines](#app-engine-pipelines)
 - [Angularjs](#angularjs)
-- [Secure Sockets Layer - SSL](#secure-sockets-layer-ssl)
+- [Secure Sockets Layer - SSL](#secure-sockets-layer---ssl)
 
 ## Git
 
