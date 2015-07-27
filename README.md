@@ -5,6 +5,7 @@
 - [Git](#git)
 - [Test-Driven Development](#test-driven-development)
 - [Refactoring](#refactoring)
+- [Google App Engine](#google-app-engine)
 - [App Engine Pipelines](#app-engine-pipelines)
 - [Angularjs](#angularjs)
 
@@ -65,6 +66,25 @@ As an example, here you have some refactoring techniques that will help you deal
 
 * [Pull Up Field](https://sourcemaking.com/refactoring/pull-up-field) - When subclasses are developed independently, or combined through refactoring, certain fields can end up being duplicated. As soon as you find out, you can generalize them up in the class herarchy.
 
+## Google App Engine
+
+Google App Engine is a Platform as a Service (PaaS) offering that lets you build and run applications on Google’s infrastructure. App Engine applications are easy to build, easy to maintain, and easy to scale as your traffic and data storage needs change. With App Engine, there are no servers for you to maintain. You simply upload your application and it's ready to go. 
+
+These tutorials will guide you to implement a simple guest book that lets users post messages to a public message board.
+
+* [Python](https://cloud.google.com/appengine/docs/python/gettingstartedpython27/introduction)
+
+* [Java](https://cloud.google.com/appengine/docs/java/gettingstarted/introduction)
+
+* [PHP](https://cloud.google.com/appengine/docs/php/gettingstarted/introduction)
+
+##### Udacity Free Courses
+
+You will learn how to harness the power of App Engine - Platform as a Service, run by Google, so you can focus on your application's features, not on managing infrastructure that runs your app.
+
+* [Developing Scalable Apps in Python with Google App Engine](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
+
+* [Developing Scalable Apps in Java with Google App Engine](https://www.udacity.com/course/developing-scalable-apps-in-java--ud859)
 
 ## App Engine Pipelines
 
